@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab02_IDNP</string>
+    <string name="txt_apellidoPaterno">Apellido paterno</string>
+    <string name="txt_apellidoMaterno">Apellido materno</string>
+    <string name="txt_nombres">Nombres</string>
+    <string name="txt_fechaNacimiento">Fecha de nacimiento</string>
+    <string name="txt_colegio">Colegio de procedencia</string>
+    <string name="txt_carrera">Carrera a la que postula</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_listar">Listar</string>
+
+</resources>
